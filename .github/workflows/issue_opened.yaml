@@ -14,3 +14,4 @@ jobs:
         with:
           PROJECT: Demo Backlog
           COLUMN: 🆕 New
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
