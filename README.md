@@ -1,8 +1,8 @@
-This is an exmaple project to setup workflows for QA. It's used to troubleshoot uissues with variaous actions:
+This is an exmaple project to setup workflows for QA. It should automate managing [the project-board](https://github.com/users/konsumer/projects/1)
+
+It's used to troubleshoot uissues with variaous actions:
 
 - [Warning: There are no target projects.](https://github.com/technote-space/create-project-card-action/issues/121)
-
-It should automate managing [the project-board](https://github.com/users/konsumer/projects/1)
 
 Worklflow:
 
